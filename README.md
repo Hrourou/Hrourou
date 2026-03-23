@@ -24,11 +24,11 @@
 
 <h3>📱 Desarrollo Mobile</h3>
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> Kotlin
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/> Android Studio
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/> Jetpack Compose
-  <img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge"/> MVVM
-  <img src="https://img.shields.io/badge/Retrofit-009688?style=for-the-badge"/> Retrofit
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Retrofit-009688?style=for-the-badge"/>
 </p>
 
 <h3>🌐 Backend & APIs</h3>
